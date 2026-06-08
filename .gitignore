@@ -1,0 +1,7 @@
+vecenv/
+distenv/
+chroma_data/
+__pycache__/
+.env
+*/.env
+**/.env
